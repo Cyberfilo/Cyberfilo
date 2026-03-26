@@ -1,67 +1,38 @@
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║  Replace Cyberfilo with your actual GitHub username     ║ -->
-<!-- ║  throughout this file before committing.                    ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
 
 <!-- HEADER — Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&height=60&lines=Full-Stack+Developer+%7C+15+y%2Fo;Algorithmic+Trading+%7C+ML+Engineer;iOS+Developer+%7C+CFD+Simulation;Building+things+that+move+markets.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&height=60&lines=16+y%2Fo+Full-Stack+Developer;AI+%7C+iOS+%7C+Trading+%7C+Engineering;I+build+things+that+solve+real+problems.)](https://git.io/typing-svg)
 
 <br>
 
 <!-- SOCIAL BADGES -->
 [![Profile Views](https://komarev.com/ghpvc/?username=Cyberfilo&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Cyberfilo)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/Cyberfilo?logo=github&style=for-the-badge&color=0d1117&labelColor=0d1117)](https://github.com/Cyberfilo?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/filippomenghi)
+<!-- ↑ Update this URL once your LinkedIn is live -->
 
 </div>
 
 ---
 
-<br>
+## About Me
 
-## `> whoami`
+I'm **Filippo**, a 16-year-old developer based in Milan, Italy. I work across full-stack development, AI systems, native iOS apps, and algorithmic trading — and I've been building seriously for the past four years. My strongest areas are multi-model AI orchestration, Python-based ML pipelines, and Swift/iOS development. Most of what I build sits at the intersection of AI and real-world utility: trading bots that execute autonomously, tools that route requests to the right model, apps that feel native and fast. I move quickly, pick up new stacks when a project needs it, and care more about shipping something that works than following a conventional path.
 
-```python
-class Filippo:
-    def __init__(self):
-        self.age = 15
-        self.location = "Milan, Italy"
-        self.education = "Year 10 — IGCSE"
-        self.roles = [
-            "Full-Stack Developer",
-            "Algorithmic Trader",
-            "ML Engineer",
-            "Hospitality Consultant",
-            "F1 in Schools Engineer"
-        ]
-        self.current_focus = [
-            "XAUUSD Algorithmic Trading (Sniper V3)",
-            "CFD Aerodynamic Simulation",
-            "iOS App Development",
-            "Agentic AI Workflows"
-        ]
-        self.fun_fact = "I consult for luxury Maldives resorts at 15."
-        self.websites = ["menghi.dev", "filippomenghi.it"]
-        self.email = "filippo@menghi.dev"
-
-    def say_hi(self):
-        print("Building things that move markets, cut drag, and ship fast.")
-```
+**Currently focused on:** Multi-model AI routing & agentic workflows · Native iOS apps with AI integration · ML-driven algorithmic trading · MCP tool development
 
 <br>
 
 ---
 
-## 🏗️ Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### ⚡ Sniper V3 — Algorithmic Trading Bot
+### Sniper V3 — Algorithmic Trading Bot
 > *XAUUSD scalping system with ML-driven execution*
 
 A 10-layer autonomous trading architecture for gold scalping on 5m–15m timeframes.
@@ -80,20 +51,18 @@ A 10-layer autonomous trading architecture for gold scalping on 5m–15m timefra
 
 <td width="50%" valign="top">
 
-### 🏎️ PowairX — F1 in Schools
-> *Computational Fluid Dynamics & race car engineering*
+### Betterdock — Multi-Model AI Router
+> *Dynamic model selection for optimal AI responses*
 
-Aerodynamic development pipeline for a miniature F1 car, including full CFD simulation and wind-tunnel validation.
+A platform that routes each user request to the best AI model instead of locking into one assistant. Model choice becomes dynamic and performance-driven.
 
-**Engineering stack:**
-- **OpenFOAM** — snappyHexMesh + simpleFoam for external aerodynamics
-- **ANSYS Fluent** — Comparative CFD analysis and validation
-- **Rhino 3D** — Geometry modeling and surface preparation
-- **Ubuntu / Multipass** — Containerized simulation environment
-- Airflow simulation around isolated wheels and full car body
-- Drag reduction and downforce optimization studies
+**Key concepts:**
+- **Query Classification** — Categorizes incoming prompts by complexity and domain
+- **Benchmark-Based Routing** — Selects the optimal model per task from a pool of providers
+- **Context Handoff** — Maintains conversation continuity across model switches
+- **Performance Tracking** — Logs and compares model outputs for continuous optimization
 
-`OpenFOAM` `ANSYS` `Rhino 3D` `C++` `Linux` `ParaView`
+`Python` `Multi-Model APIs` `Routing Logic` `Benchmarking`
 
 </td>
 
@@ -102,38 +71,72 @@ Aerodynamic development pipeline for a miniature F1 car, including full CFD simu
 
 <td width="50%" valign="top">
 
-### 📱 MyLiveGPT — iOS Voice AI App
-> *Real-time GPT-4 voice interaction on iOS*
+### MyLiveGPT — iOS Voice AI App
+> *Real-time GPT voice interaction on iOS*
 
 Native iOS application enabling live voice conversations with GPT-4 through a custom WebSocket backend.
 
 **Key features:**
 - Real-time voice-to-text-to-voice pipeline
-- Custom Express.js + WebSocket backend
-- Bespoke design system (custom colors, typography with `introrust-base.otf`)
-- Low-latency streaming responses
+- Custom WebSocket backend for low-latency streaming
+- Bespoke design system (custom colors, typography)
 - Native Swift UI with hand-crafted visual identity
 
-`Swift` `Node.js` `Express` `WebSocket` `OpenAI API` `iOS`
+`Swift` `WebSockets` `OpenAI API` `iOS`
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🌴 Nilaa Coral Island — Hospitality Consulting
-> *Strategic planning for a luxury Maldives resort*
+### MusicMind MCP — Apple Music AI Intelligence
+> *AI-powered music analysis & smart playlist generation*
 
-End-to-end pre-opening consulting for a luxury resort development, from investor strategy to operational staffing.
+An MCP server giving Claude deep, intelligent access to Apple Music — taste profiling, adaptive recommendations, and smart playlist generation.
 
-**Deliverables:**
-- 15-chapter Italian-language Strategic Master Plan
-- Pre-opening Sales & Marketing Strategy with luxury agency outreach
-- 3-year Revenue Forecast Model (2026–2028)
-- Phased Staffing & Manning Plan through Dec 2026
-- Organizational Charts with dual-scenario modeling
-- $750K / $650K / $500K annual S&M budget allocation
+**Key features:**
+- **Library Analysis** — Scans listening data for taste profiling
+- **Attribute Matching** — Maps track characteristics to user preferences
+- **NLP Playlist Generation** — Natural-language request parsing for playlists
+- **MCP Architecture** — Seamlessly integrates with Claude and agentic workflows
 
-`Excel` `Financial Modeling` `Strategic Planning` `Hospitality`
+`Python` `Apple Music SDK` `MCP` `NLP`
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### PowairX — F1 in Schools Engineering
+> *Computational Fluid Dynamics & race car development*
+
+Aerodynamic development pipeline for a miniature F1 car, including full CFD simulation and wind-tunnel validation.
+
+**Engineering stack:**
+- **OpenFOAM** — snappyHexMesh + simpleFoam for external aerodynamics
+- **ANSYS Fluent** — Comparative CFD analysis and validation
+- **Rhino 3D** — Geometry modeling and surface preparation
+- Drag reduction and downforce optimization studies
+
+`OpenFOAM` `ANSYS` `Rhino 3D` `Linux` `ParaView`
+
+</td>
+
+<td width="50%" valign="top">
+
+### GPTChart — AI Trading Dashboard
+> *AI-assisted chart analysis with strategy presets*
+
+A visual dashboard for AI-powered trading analysis with strategy presets, symbol selection, and structured execution plans.
+
+**Key features:**
+- **Chart Image → Analysis Pipeline** — Vision AI interprets chart screenshots into structured trade decisions
+- **Strategy Presets** — Pre-built analysis templates for different market conditions
+- **Persistent History** — Tracks past analyses for pattern review
+- **Structured Output** — Generates risk levels, triggers, and execution frameworks
+
+`Python` `Streamlit` `AI APIs` `Vision Models`
 
 </td>
 
@@ -144,21 +147,26 @@ End-to-end pre-opening consulting for a luxury resort development, from investor
 
 ---
 
-## 🧠 Other Work & Experiments
+## Other Work & Experiments
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **GSD Retrospective** | A session-tracking skill for Claude Code that logs what was done, why, when, where, and how — reverse-engineered from Get Shit Done | `Markdown` `Claude Code` `Git` |
-| **Notes Formatter** | Obsidian notes skill with D2 diagrams, LaTeX math (`$...$`), mixed IT/EN support | `Obsidian` `D2` `LaTeX` |
-| **Ghostwriter** | AI-detection evasion engine based on perplexity, burstiness, and token-rank analysis research | `NLP` `Python` |
-| **Task Orchestrator** | Claude Code skill for parallel sub-agent delegation in agentic workflows | `Claude Code` `Agentic AI` |
-| **Kahoot Bot** | Automated answer engine for Kahoot quizzes | `JavaScript` `gRPC-Web` |
+| **PromptPort** | Universal interface for accessing, comparing, and switching between AI models in one workflow. Dispatcher layer chooses the best model per task. | `Web App` `API Aggregation` `AI Routing` |
+| **Local AI Proxy** | Local backend layer that standardizes requests to AI services — input normalization, endpoint abstraction, consistent output reshaping. | `Python` `FastAPI` `API Proxying` |
+| **Trading Signal Bot** | Reactive algo bot that monitors markets continuously and generates structured trade signals with entry/exit levels and confirmation logic. | `Python` `yfinance` `Telegram` |
+| **PowairX Website** | Professional team website for F1 in Schools — branded sections, sponsor visibility, and polished presentation. | `HTML` `CSS` `JavaScript` |
+| **gRPC-Web Binary Decoder** | Decoding workflow for turning opaque serialized API responses into readable structured data via protobuf reconstruction. | `JavaScript` `protobufjs` |
+| **CFD Case Generator** | Ready-to-run OpenFOAM simulation file generator to accelerate reproducible CFD testing without manual setup each time. | `OpenFOAM` `Linux` |
+| **Swift App Experiments** | Collection of iOS app prototypes — ML image classification, native utility apps, and productized AI experiences. | `Swift` `Xcode` `CoreML` |
+| **STL Repair Workflow** | Geometry-repair pipeline for turning broken meshes into simulation-ready or print-ready files (non-manifold cleanup, boolean fixes). | `Rhino 3D` `CAD` |
+| **3D Print Optimizer** | Weight optimization tool comparing slicer-estimated vs. real printed weight, with infill tuning and surface/weight tradeoff evaluation. | `Python` `Slicer Data` |
+| **Claude Code Skills** | Custom skills for Claude Code — session tracking (GSD Retrospective), note formatting, task orchestration, and AI-detection analysis. | `Claude Code` `Agentic AI` |
 
 <br>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -167,7 +175,6 @@ End-to-end pre-opening consulting for a luxury resort development, from investor
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MQL5](https://img.shields.io/badge/MQL5-4A76A8?style=for-the-badge&logo=metatrader5&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -177,7 +184,7 @@ End-to-end pre-opening consulting for a luxury resort development, from investor
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Optuna](https://img.shields.io/badge/Optuna-2D2D2D?style=for-the-badge&logo=optuna&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 #### Engineering & Simulation
 ![OpenFOAM](https://img.shields.io/badge/OpenFOAM-1E8BC3?style=for-the-badge&logoColor=white)
@@ -187,7 +194,7 @@ End-to-end pre-opening consulting for a luxury resort development, from investor
 
 #### Frameworks & Tools
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -196,7 +203,7 @@ End-to-end pre-opening consulting for a luxury resort development, from investor
 #### Platforms
 ![MetaTrader 5](https://img.shields.io/badge/MetaTrader_5-4A76A8?style=for-the-badge&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logoColor=white)
 ![Multipass](https://img.shields.io/badge/Multipass-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 </div>
@@ -205,104 +212,37 @@ End-to-end pre-opening consulting for a luxury resort development, from investor
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Overview
 
 <div align="center">
 
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=Cyberfilo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&ring_color=58A6FF" alt="GitHub Stats" height="180"/>
-&nbsp;&nbsp;
-<!-- Top Languages -->
+<!-- Top Languages — looks good regardless of contribution volume -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberfilo&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="180"/>
 
 <br><br>
 
-<!-- Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Cyberfilo&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
-
-<br><br>
-
-<!-- Activity Graph -->
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cyberfilo&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=c9d1d9&area=true&area_color=58A6FF)](https://github.com/Cyberfilo)
-
-</div>
-
-<br>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<!-- Snake animation — requires GitHub Action setup (instructions below) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cyberfilo/Cyberfilo/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cyberfilo/Cyberfilo/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Cyberfilo/Cyberfilo/output/github-snake-dark.svg" />
-</picture>
+<!-- Trophies — selective display of relevant ones -->
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Cyberfilo&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15&title=Repositories,Commits,MultipleLang,PullRequest)](https://github.com/Cyberfilo)
 
 </div>
 
 <!--
-╔════════════════════════════════════════════════════════════════════╗
-║  🐍 SNAKE SETUP — Add this GitHub Action to your profile repo:  ║
-║                                                                    ║
-║  1. In your Cyberfilo/Cyberfilo repo, create:             ║
-║     .github/workflows/snake.yml                                   ║
-║                                                                    ║
-║  2. Paste this workflow:                                          ║
-║                                                                    ║
-║  name: Generate Snake                                             ║
-║  on:                                                               ║
-║    schedule:                                                       ║
-║      - cron: "0 */12 * * *"                                       ║
-║    workflow_dispatch:                                               ║
-║                                                                    ║
-║  jobs:                                                             ║
-║    build:                                                          ║
-║      runs-on: ubuntu-latest                                        ║
-║      steps:                                                        ║
-║        - uses: Platane/snk@v3                                     ║
-║          with:                                                     ║
-║            github_user_name: Cyberfilo                         ║
-║            outputs: |                                              ║
-║              dist/github-snake.svg                                 ║
-║              dist/github-snake-dark.svg?palette=github-dark        ║
-║        - uses: crazy-max/ghaction-github-pages@v3.1.0             ║
-║          with:                                                     ║
-║            target_branch: output                                   ║
-║            build_dir: dist                                         ║
-║          env:                                                      ║
-║            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}               ║
-║                                                                    ║
-║  3. Go to Actions tab → Run workflow manually the first time.     ║
-╚════════════════════════════════════════════════════════════════════╝
+Most of my work lives in private repos, local projects, and client work
+that isn't on GitHub. The repos here represent what I've chosen to open-source
+or share publicly — they're a fraction of the full picture.
 -->
 
 <br>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Cyberfilo&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/Cyberfilo)
-
-</div>
-
-<br>
-
----
-
-## 📈 What I'm Working On
+## What I'm Working On
 
 ```
-🔧  Sniper V3        →  Backtesting pipeline & ML ensemble optimization
-🏎️  PowairX          →  Full-car CFD mesh refinement in OpenFOAM
-🧠  Claude Code       →  Building agentic skills & task orchestration
-📚  IGCSE Prep        →  Exam season — April 2026
+AI Orchestration   →  Multi-model routing, agentic workflows, MCP tools
+iOS Development    →  Native Swift apps with AI integration
+Sniper V3          →  Backtesting pipeline & ML ensemble optimization
+PowairX            →  Full-car CFD mesh refinement in OpenFOAM
 ```
 
 <br>
@@ -311,9 +251,9 @@ End-to-end pre-opening consulting for a luxury resort development, from investor
 
 <div align="center">
 
-### 💬 Let's Connect
+### Let's Connect
 
-*I'm always open to collaborating on trading systems, CFD simulations, or anything that ships fast and breaks conventions.*
+*Open to collaborating on AI systems, trading tools, iOS apps, or anything that ships fast and breaks conventions.*
 
 <br>
 
@@ -321,7 +261,12 @@ End-to-end pre-opening consulting for a luxury resort development, from investor
 &nbsp;
 [![menghi.dev](https://img.shields.io/badge/menghi.dev-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF)](https://menghi.dev)
 &nbsp;
-[![filippomenghi.it](https://img.shields.io/badge/filippomenghi.it-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF)](https://filippomenghi.it)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/filippomenghi)
+<!-- ↑ Update LinkedIn URL once your profile is live -->
+
+<br>
+
+*CV available on request — or check [menghi.dev](https://menghi.dev) for the full portfolio.*
 
 <br><br>
 

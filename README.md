@@ -8,8 +8,9 @@
 <!-- SOCIAL BADGES -->
 [![Profile Views](https://komarev.com/ghpvc/?username=Cyberfilo&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Cyberfilo)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/filippomenghi)
-<!-- ↑ Update this URL once your LinkedIn is live -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filippo-menghi-5386603ba)
+&nbsp;
+[![Repos](https://img.shields.io/badge/Public_Repos-21-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cyberfilo?tab=repositories)
 
 </div>
 
@@ -20,147 +21,6 @@
 I'm **Filippo**, a 16-year-old developer based in Milan, Italy. I work across full-stack development, AI systems, native iOS apps, and algorithmic trading — and I've been building seriously for the past four years. My strongest areas are multi-model AI orchestration, Python-based ML pipelines, and Swift/iOS development. Most of what I build sits at the intersection of AI and real-world utility: trading bots that execute autonomously, tools that route requests to the right model, apps that feel native and fast. I move quickly, pick up new stacks when a project needs it, and care more about shipping something that works than following a conventional path.
 
 **Currently focused on:** Multi-model AI routing & agentic workflows · Native iOS apps with AI integration · ML-driven algorithmic trading · MCP tool development
-
-<br>
-
----
-
-## Featured Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### Sniper V3 — Algorithmic Trading Bot
-> *XAUUSD scalping system with ML-driven execution*
-
-A 10-layer autonomous trading architecture for gold scalping on 5m–15m timeframes.
-
-**Architecture highlights:**
-- **Regime Detection** — Classifies market state (trending/ranging/volatile) in real-time
-- **ML Ensemble** — LightGBM + CatBoost with isotonic-calibrated meta-learner
-- **ATR-Adaptive Trailing** — Dynamic stop-loss and take-profit adjustment
-- **Kelly-Fractional Sizing** — Mathematically optimal position sizing per trade
-- **Multi-Tier Circuit Breakers** — Portfolio-level risk management with heat caps
-- **Concept Drift Detection** — ADWIN + DDM + KS test triggers auto-retrain
-
-`Python` `MQL5` `LightGBM` `CatBoost` `SQLite` `MetaTrader 5`
-
-</td>
-
-<td width="50%" valign="top">
-
-### Betterdock — Multi-Model AI Router
-> *Dynamic model selection for optimal AI responses*
-
-A platform that routes each user request to the best AI model instead of locking into one assistant. Model choice becomes dynamic and performance-driven.
-
-**Key concepts:**
-- **Query Classification** — Categorizes incoming prompts by complexity and domain
-- **Benchmark-Based Routing** — Selects the optimal model per task from a pool of providers
-- **Context Handoff** — Maintains conversation continuity across model switches
-- **Performance Tracking** — Logs and compares model outputs for continuous optimization
-
-`Python` `Multi-Model APIs` `Routing Logic` `Benchmarking`
-
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-
-### MyLiveGPT — iOS Voice AI App
-> *Real-time GPT voice interaction on iOS*
-
-Native iOS application enabling live voice conversations with GPT-4 through a custom WebSocket backend.
-
-**Key features:**
-- Real-time voice-to-text-to-voice pipeline
-- Custom WebSocket backend for low-latency streaming
-- Bespoke design system (custom colors, typography)
-- Native Swift UI with hand-crafted visual identity
-
-`Swift` `WebSockets` `OpenAI API` `iOS`
-
-</td>
-
-<td width="50%" valign="top">
-
-### MusicMind MCP — Apple Music AI Intelligence
-> *AI-powered music analysis & smart playlist generation*
-
-An MCP server giving Claude deep, intelligent access to Apple Music — taste profiling, adaptive recommendations, and smart playlist generation.
-
-**Key features:**
-- **Library Analysis** — Scans listening data for taste profiling
-- **Attribute Matching** — Maps track characteristics to user preferences
-- **NLP Playlist Generation** — Natural-language request parsing for playlists
-- **MCP Architecture** — Seamlessly integrates with Claude and agentic workflows
-
-`Python` `Apple Music SDK` `MCP` `NLP`
-
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-
-### PowairX — F1 in Schools Engineering
-> *Computational Fluid Dynamics & race car development*
-
-Aerodynamic development pipeline for a miniature F1 car, including full CFD simulation and wind-tunnel validation.
-
-**Engineering stack:**
-- **OpenFOAM** — snappyHexMesh + simpleFoam for external aerodynamics
-- **ANSYS Fluent** — Comparative CFD analysis and validation
-- **Rhino 3D** — Geometry modeling and surface preparation
-- Drag reduction and downforce optimization studies
-
-`OpenFOAM` `ANSYS` `Rhino 3D` `Linux` `ParaView`
-
-</td>
-
-<td width="50%" valign="top">
-
-### GPTChart — AI Trading Dashboard
-> *AI-assisted chart analysis with strategy presets*
-
-A visual dashboard for AI-powered trading analysis with strategy presets, symbol selection, and structured execution plans.
-
-**Key features:**
-- **Chart Image → Analysis Pipeline** — Vision AI interprets chart screenshots into structured trade decisions
-- **Strategy Presets** — Pre-built analysis templates for different market conditions
-- **Persistent History** — Tracks past analyses for pattern review
-- **Structured Output** — Generates risk levels, triggers, and execution frameworks
-
-`Python` `Streamlit` `AI APIs` `Vision Models`
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
----
-
-## Other Work & Experiments
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **PromptPort** | Universal interface for accessing, comparing, and switching between AI models in one workflow. Dispatcher layer chooses the best model per task. | `Web App` `API Aggregation` `AI Routing` |
-| **Local AI Proxy** | Local backend layer that standardizes requests to AI services — input normalization, endpoint abstraction, consistent output reshaping. | `Python` `FastAPI` `API Proxying` |
-| **Trading Signal Bot** | Reactive algo bot that monitors markets continuously and generates structured trade signals with entry/exit levels and confirmation logic. | `Python` `yfinance` `Telegram` |
-| **PowairX Website** | Professional team website for F1 in Schools — branded sections, sponsor visibility, and polished presentation. | `HTML` `CSS` `JavaScript` |
-| **gRPC-Web Binary Decoder** | Decoding workflow for turning opaque serialized API responses into readable structured data via protobuf reconstruction. | `JavaScript` `protobufjs` |
-| **CFD Case Generator** | Ready-to-run OpenFOAM simulation file generator to accelerate reproducible CFD testing without manual setup each time. | `OpenFOAM` `Linux` |
-| **Swift App Experiments** | Collection of iOS app prototypes — ML image classification, native utility apps, and productized AI experiences. | `Swift` `Xcode` `CoreML` |
-| **STL Repair Workflow** | Geometry-repair pipeline for turning broken meshes into simulation-ready or print-ready files (non-manifold cleanup, boolean fixes). | `Rhino 3D` `CAD` |
-| **3D Print Optimizer** | Weight optimization tool comparing slicer-estimated vs. real printed weight, with infill tuning and surface/weight tradeoff evaluation. | `Python` `Slicer Data` |
-| **Claude Code Skills** | Custom skills for Claude Code — session tracking (GSD Retrospective), note formatting, task orchestration, and AI-detection analysis. | `Claude Code` `Agentic AI` |
 
 <br>
 
@@ -212,25 +72,149 @@ A visual dashboard for AI-powered trading analysis with strategy presets, symbol
 
 ---
 
-## GitHub Overview
+## Featured Projects
 
-<div align="center">
+<table>
+<tr>
 
-<!-- Top Languages — looks good regardless of contribution volume -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberfilo&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="180"/>
+<td width="50%" valign="top">
 
-<br><br>
+### ⚡ Sniper V3 — Algorithmic Trading Bot
+> *XAUUSD scalping system with ML-driven execution*
 
-<!-- Trophies — selective display of relevant ones -->
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Cyberfilo&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15&title=Repositories,Commits,MultipleLang,PullRequest)](https://github.com/Cyberfilo)
+A 10-layer autonomous trading architecture for gold scalping on 5m–15m timeframes.
 
-</div>
+- **Regime Detection** — Real-time market state classification
+- **ML Ensemble** — LightGBM + CatBoost with isotonic-calibrated meta-learner
+- **ATR-Adaptive Trailing** — Dynamic stop-loss and take-profit
+- **Kelly-Fractional Sizing** — Optimal position sizing per trade
+- **Circuit Breakers** — Portfolio-level risk management with heat caps
+- **Drift Detection** — ADWIN + DDM + KS test triggers auto-retrain
 
-<!--
-Most of my work lives in private repos, local projects, and client work
-that isn't on GitHub. The repos here represent what I've chosen to open-source
-or share publicly — they're a fraction of the full picture.
--->
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MQL5](https://img.shields.io/badge/MQL5-4A76A8?style=flat-square&logo=metatrader5&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-023047?style=flat-square&logo=microsoft&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logo=catboost&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 Betterdock — Multi-Model AI Router
+> *Dynamic model selection for optimal AI responses*
+
+Routes each user request to the best AI model instead of locking into one assistant. Model choice becomes dynamic and performance-driven.
+
+- **Query Classification** — Categorizes prompts by complexity and domain
+- **Benchmark-Based Routing** — Selects optimal model per task
+- **Context Handoff** — Continuity across model switches
+- **Performance Tracking** — Logs and compares model outputs
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### 📱 MyLiveGPT — iOS Voice AI App
+> *Real-time GPT voice interaction on iOS*
+
+Native iOS app for live voice conversations with GPT-4 through a custom WebSocket backend.
+
+- Real-time voice-to-text-to-voice pipeline
+- Custom WebSocket backend for low-latency streaming
+- Bespoke design system with hand-crafted visual identity
+- Native Swift UI with smooth state transitions
+
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎵 [MusicMind MCP](https://github.com/Cyberfilo/musicmind-mcp) — Apple Music AI
+> *AI-powered music analysis & smart playlist generation*
+
+MCP server giving Claude deep access to Apple Music — taste profiling, adaptive recommendations, and smart playlist generation.
+
+- **Library Analysis** — Scans listening data for taste profiling
+- **Attribute Matching** — Maps track characteristics to preferences
+- **NLP Playlists** — Natural-language request parsing
+- **MCP Architecture** — Integrates with Claude and agentic workflows
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Apple Music](https://img.shields.io/badge/Apple_Music-FA243C?style=flat-square&logo=apple-music&logoColor=white)
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🏎️ [PowairX](https://github.com/Cyberfilo/powairx-website) — F1 in Schools Engineering
+> *CFD simulation & race car aerodynamic development*
+
+Full aerodynamic development pipeline for a miniature F1 car — CFD simulation, mesh generation, and wind-tunnel validation.
+
+- **OpenFOAM** — snappyHexMesh + simpleFoam for external aero
+- **ANSYS Fluent** — Comparative CFD validation
+- **Rhino 3D** — Geometry modeling and surface prep
+- Drag reduction and downforce optimization
+
+![OpenFOAM](https://img.shields.io/badge/OpenFOAM-1E8BC3?style=flat-square&logoColor=white)
+![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=flat-square&logo=ansys&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Rhino3D](https://img.shields.io/badge/Rhino_3D-801010?style=flat-square&logoColor=white)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📊 GPTChart — AI Trading Dashboard
+> *Vision AI chart analysis with strategy presets*
+
+Dashboard for AI-powered trading analysis — feed it a chart screenshot, get back structured trade decisions with risk levels and triggers.
+
+- **Chart → Analysis Pipeline** — Vision AI interprets screenshots into trade plans
+- **Strategy Presets** — Templates for different market conditions
+- **Persistent History** — Pattern review across past analyses
+- **Structured Output** — Risk levels, triggers, execution frameworks
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+---
+
+## Other Work & Experiments
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **PromptPort** | Universal interface to access and switch between AI models in one workflow | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| **Local AI Proxy** | Standardizes requests to AI services — input normalization, endpoint abstraction, output reshaping | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
+| **Trading Signal Bot** | Monitors markets and generates structured trade signals with confirmation logic | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white) |
+| **[PowairX Website](https://github.com/Cyberfilo/powairx-website)** | Professional team site for F1 in Schools with sponsor visibility | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **gRPC-Web Decoder** | Turns opaque serialized API responses into readable structured data via protobuf | ![JavaScript](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **CFD Case Generator** | Ready-to-run OpenFOAM simulation files for reproducible CFD testing | ![OpenFOAM](https://img.shields.io/badge/-OpenFOAM-1E8BC3?style=flat-square&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **[Swift App Experiments](https://github.com/Cyberfilo/app-classificazione-4)** | iOS prototypes — ML image classification, native utilities, AI-powered apps | ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white) ![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white) |
+| **STL Repair Workflow** | Geometry-repair pipeline for simulation-ready or print-ready meshes | ![Rhino3D](https://img.shields.io/badge/-Rhino_3D-801010?style=flat-square&logoColor=white) |
+| **3D Print Optimizer** | Slicer-estimated vs. real weight comparison with infill tuning | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Claude Code Skills** | Custom agentic skills — session tracking, note formatting, task orchestration | ![Claude](https://img.shields.io/badge/-Claude_Code-191919?style=flat-square&logoColor=white) |
 
 <br>
 
@@ -238,12 +222,12 @@ or share publicly — they're a fraction of the full picture.
 
 ## What I'm Working On
 
-```
-AI Orchestration   →  Multi-model routing, agentic workflows, MCP tools
-iOS Development    →  Native Swift apps with AI integration
-Sniper V3          →  Backtesting pipeline & ML ensemble optimization
-PowairX            →  Full-car CFD mesh refinement in OpenFOAM
-```
+| | Area | Details |
+|---|------|---------|
+| 🧠 | **AI Orchestration** | Multi-model routing, agentic workflows, [MCP tools](https://github.com/Cyberfilo/musicmind-mcp) |
+| 📱 | **iOS Development** | Native Swift apps with AI integration |
+| 📈 | **Sniper V3** | Backtesting pipeline & ML ensemble optimization |
+| 🏎️ | **[PowairX](https://github.com/Cyberfilo/powairx-website)** | Full-car CFD mesh refinement in OpenFOAM |
 
 <br>
 
@@ -253,7 +237,7 @@ PowairX            →  Full-car CFD mesh refinement in OpenFOAM
 
 ### Let's Connect
 
-*Open to collaborating on AI systems, trading tools, iOS apps, or anything that ships fast and breaks conventions.*
+*Open to collaborating on AI systems, software development, iOS apps, or anything that ships fast and breaks conventions.*
 
 <br>
 
@@ -261,12 +245,7 @@ PowairX            →  Full-car CFD mesh refinement in OpenFOAM
 &nbsp;
 [![menghi.dev](https://img.shields.io/badge/menghi.dev-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF)](https://menghi.dev)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/filippomenghi)
-<!-- ↑ Update LinkedIn URL once your profile is live -->
-
-<br>
-
-*CV available on request — or check [menghi.dev](https://menghi.dev) for the full portfolio.*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filippo-menghi-5386603ba)
 
 <br><br>
 

@@ -1,254 +1,180 @@
-<div align="center">
+<!--
+  GitHub profile README for github.com/Cyberfilo
+  Source-of-truth: ~/.me/github/profile-readme.md
+  AUTO-UPDATE zone is hands-off-from-humans; everything else is hand-curated.
+-->
 
-<!-- HEADER — Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&height=60&lines=16+y%2Fo+Full-Stack+Developer;AI+%7C+iOS+%7C+Trading+%7C+Engineering;I+build+things+that+solve+real+problems.)](https://git.io/typing-svg)
+<h1 align="center">Filippo Mattia Menghi</h1>
 
-<br>
+<p align="center">
+  <em>16, Milan · building AI-integrated systems · open to stages and OSS work</em>
+</p>
 
-<!-- SOCIAL BADGES -->
-[![Profile Views](https://komarev.com/ghpvc/?username=Cyberfilo&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Cyberfilo)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filippo-menghi-5386603ba)
-&nbsp;
-[![Repos](https://img.shields.io/badge/Public_Repos-21-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cyberfilo?tab=repositories)
+<p align="center">
+  <a href="mailto:filippo@menghi.dev"><img alt="Email" src="https://img.shields.io/badge/-filippo%40menghi.dev-005FB8?style=flat-square&logo=maildotru&logoColor=white"></a>
+  <a href="https://menghi.dev"><img alt="Web" src="https://img.shields.io/badge/-menghi.dev-3B82F6?style=flat-square&logo=safari&logoColor=white"></a>
+  <a href="https://music.menghi.dev"><img alt="Live" src="https://img.shields.io/badge/-music.menghi.dev-EC4899?style=flat-square&logo=applemusic&logoColor=white"></a>
+  <a href="https://huggingface.co/Cyberfilo"><img alt="HF" src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"></a>
+</p>
 
-</div>
-
----
-
-## About Me
-
-I'm **Filippo**, a 16-year-old developer based in Milan, Italy. I work across full-stack development, AI systems, native iOS apps, and algorithmic trading — and I've been building seriously for the past four years. My strongest areas are multi-model AI orchestration, Python-based ML pipelines, and Swift/iOS development. Most of what I build sits at the intersection of AI and real-world utility: trading bots that execute autonomously, tools that route requests to the right model, apps that feel native and fast. I move quickly, pick up new stacks when a project needs it, and care more about shipping something that works than following a conventional path.
-
-**Currently focused on:** Multi-model AI routing & agentic workflows · Native iOS apps with AI integration · ML-driven algorithmic trading · MCP tool development
-
-<br>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=600&color=A8A8A8&center=true&vCenter=true&width=540&lines=Python+%C2%B7+FastAPI+%C2%B7+Postgres+%C2%B7+Modal+%C2%B7+Railway;Audio-ML+%C2%B7+Trading+systems+%C2%B7+MCP+%C2%B7+iOS+security;Contributing+to+LiteLLM+%E2%80%A2+pdfplumber+%E2%80%A2+Apple+Music+%E2%80%A2+PlayCover;Not+a+vibe+coder.+Reads+the+code+it+writes."></a>
+</p>
 
 ---
 
-## Tech Stack
+### Currently building
 
-<div align="center">
+<!-- AUTO-UPDATE:START -->
+<!-- Regenerated 2026-05-14 by ~/.me/automation/ -->
 
-#### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MQL5](https://img.shields.io/badge/MQL5-4A76A8?style=for-the-badge&logo=metatrader5&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- **[iphone-audit](https://github.com/Cyberfilo/iphone-audit)** &nbsp;·&nbsp; iOS audit + hardening · Python + SwiftUI · v1.000 shipped
+- **[customos](https://github.com/Cyberfilo/customos)** &nbsp;·&nbsp; macOS behavioral profile pipeline · Python 3.12 + uv · scaffolding
+- **[SmarTaste](https://github.com/Cyberfilo/SmarTaste)** &nbsp;·&nbsp; audio-ML music recommender · FastAPI + Modal · production at [music.menghi.dev](https://music.menghi.dev)
+- **SpowieBot** (private) &nbsp;·&nbsp; XAUUSD trading bot · dual-engine · sanitized public template in prep
+- **Open source** &nbsp;·&nbsp; sustained PR cadence to [LiteLLM](https://github.com/BerriAI/litellm) and the Anthropic ecosystem &nbsp;·&nbsp; [`is:pr author:Cyberfilo`](https://github.com/search?q=author%3ACyberfilo+is%3Apr&type=pullrequests)
 
-#### ML & Data
-![LightGBM](https://img.shields.io/badge/LightGBM-023047?style=for-the-badge&logo=microsoft&logoColor=white)
-![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logo=catboost&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-#### Engineering & Simulation
-![OpenFOAM](https://img.shields.io/badge/OpenFOAM-1E8BC3?style=for-the-badge&logoColor=white)
-![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge&logo=ansys&logoColor=black)
-![Rhino3D](https://img.shields.io/badge/Rhino_3D-801010?style=for-the-badge&logoColor=white)
-![ParaView](https://img.shields.io/badge/ParaView-CC2927?style=for-the-badge&logoColor=white)
-
-#### Frameworks & Tools
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-
-#### Platforms
-![MetaTrader 5](https://img.shields.io/badge/MetaTrader_5-4A76A8?style=for-the-badge&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logoColor=white)
-![Multipass](https://img.shields.io/badge/Multipass-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-</div>
-
-<br>
+<!-- AUTO-UPDATE:END -->
 
 ---
 
-## Featured Projects
+### Featured
 
 <table>
 <tr>
+<td valign="top" width="50%">
 
-<td width="50%" valign="top">
-
-### ⚡ Sniper V3 — Algorithmic Trading Bot
-> *XAUUSD scalping system with ML-driven execution*
-
-A 10-layer autonomous trading architecture for gold scalping on 5m–15m timeframes.
-
-- **Regime Detection** — Real-time market state classification
-- **ML Ensemble** — LightGBM + CatBoost with isotonic-calibrated meta-learner
-- **ATR-Adaptive Trailing** — Dynamic stop-loss and take-profit
-- **Kelly-Fractional Sizing** — Optimal position sizing per trade
-- **Circuit Breakers** — Portfolio-level risk management with heat caps
-- **Drift Detection** — ADWIN + DDM + KS test triggers auto-retrain
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MQL5](https://img.shields.io/badge/MQL5-4A76A8?style=flat-square&logo=metatrader5&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-023047?style=flat-square&logo=microsoft&logoColor=white)
-![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logo=catboost&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+[**SmarTaste**](https://github.com/Cyberfilo/SmarTaste)
+*Audio-ML music recommender · MIT*
+<br>`Python` `FastAPI` `Postgres` `PyTorch` `Modal`
+<br>→ [Live](https://music.menghi.dev) · [README →](https://github.com/Cyberfilo/SmarTaste#readme)
 
 </td>
+<td valign="top" width="50%">
 
-<td width="50%" valign="top">
-
-### 🧠 Betterdock — Multi-Model AI Router
-> *Dynamic model selection for optimal AI responses*
-
-Routes each user request to the best AI model instead of locking into one assistant. Model choice becomes dynamic and performance-driven.
-
-- **Query Classification** — Categorizes prompts by complexity and domain
-- **Benchmark-Based Routing** — Selects optimal model per task
-- **Context Handoff** — Continuity across model switches
-- **Performance Tracking** — Logs and compares model outputs
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+[**iphone-audit**](https://github.com/Cyberfilo/iphone-audit)
+*iOS audit + hardening · GPL-3.0*
+<br>`Python` `SwiftUI` `pymobiledevice3` `macOS`
+<br>→ [README →](https://github.com/Cyberfilo/iphone-audit#readme)
 
 </td>
-
 </tr>
 <tr>
+<td valign="top" width="50%">
 
-<td width="50%" valign="top">
-
-### 📱 MyLiveGPT — iOS Voice AI App
-> *Real-time GPT voice interaction on iOS*
-
-Native iOS app for live voice conversations with GPT-4 through a custom WebSocket backend.
-
-- Real-time voice-to-text-to-voice pipeline
-- Custom WebSocket backend for low-latency streaming
-- Bespoke design system with hand-crafted visual identity
-- Native Swift UI with smooth state transitions
-
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+[**musicmind-mcp**](https://github.com/Cyberfilo/musicmind-mcp)
+*MCP server for Apple Music · MIT*
+<br>`Python` `MCP` `Apple MusicKit` `Claude`
+<br>→ [README →](https://github.com/Cyberfilo/musicmind-mcp#readme)
 
 </td>
+<td valign="top" width="50%">
 
-<td width="50%" valign="top">
-
-### 🎵 [MusicMind MCP](https://github.com/Cyberfilo/musicmind-mcp) — Apple Music AI
-> *AI-powered music analysis & smart playlist generation*
-
-MCP server giving Claude deep access to Apple Music — taste profiling, adaptive recommendations, and smart playlist generation.
-
-- **Library Analysis** — Scans listening data for taste profiling
-- **Attribute Matching** — Maps track characteristics to preferences
-- **NLP Playlists** — Natural-language request parsing
-- **MCP Architecture** — Integrates with Claude and agentic workflows
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Apple Music](https://img.shields.io/badge/Apple_Music-FA243C?style=flat-square&logo=apple-music&logoColor=white)
+[**customos**](https://github.com/Cyberfilo/customos)
+*macOS behavioral profile · MIT*
+<br>`Python 3.12` `FastAPI` `uv` `Pydantic`
+<br>→ [README →](https://github.com/Cyberfilo/customos#readme)
 
 </td>
-
 </tr>
 <tr>
+<td valign="top" width="50%">
 
-<td width="50%" valign="top">
-
-### 🏎️ [PowairX](https://github.com/Cyberfilo/powairx-website) — F1 in Schools Engineering
-> *CFD simulation & race car aerodynamic development*
-
-Full aerodynamic development pipeline for a miniature F1 car — CFD simulation, mesh generation, and wind-tunnel validation.
-
-- **OpenFOAM** — snappyHexMesh + simpleFoam for external aero
-- **ANSYS Fluent** — Comparative CFD validation
-- **Rhino 3D** — Geometry modeling and surface prep
-- Drag reduction and downforce optimization
-
-![OpenFOAM](https://img.shields.io/badge/OpenFOAM-1E8BC3?style=flat-square&logoColor=white)
-![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=flat-square&logo=ansys&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Rhino3D](https://img.shields.io/badge/Rhino_3D-801010?style=flat-square&logoColor=white)
+[**scrape-gen**](https://github.com/Cyberfilo/scrape-gen)
+*OSINT password wordlist generator · MIT*
+<br>`Python` `OpenAI` `BeautifulSoup` `pentest`
+<br>→ [README →](https://github.com/Cyberfilo/scrape-gen#readme)
 
 </td>
+<td valign="top" width="50%">
 
-<td width="50%" valign="top">
-
-### 📊 GPTChart — AI Trading Dashboard
-> *Vision AI chart analysis with strategy presets*
-
-Dashboard for AI-powered trading analysis — feed it a chart screenshot, get back structured trade decisions with risk levels and triggers.
-
-- **Chart → Analysis Pipeline** — Vision AI interprets screenshots into trade plans
-- **Strategy Presets** — Templates for different market conditions
-- **Persistent History** — Pattern review across past analyses
-- **Structured Output** — Risk levels, triggers, execution frameworks
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+[**foodiy**](https://github.com/Cyberfilo/foodiy)
+*Smart calorie tracking · TypeScript*
+<br>`TypeScript` `OpenAI` `Nix` `Railway`
+<br>→ [README →](https://github.com/Cyberfilo/foodiy#readme)
 
 </td>
+</tr>
+<tr>
+<td valign="top" width="50%">
 
+[**Smart-igcse-platform**](https://github.com/Cyberfilo/Smart-igcse-platform)
+*Personal exam-prep platform · Python*
+<br>`Flask` `Postgres` `OpenAI` `Railway`
+<br>→ [README →](https://github.com/Cyberfilo/Smart-igcse-platform#readme)
+
+</td>
+<td valign="top" width="50%">
+
+[**igcse-revision-toolkit**](https://github.com/Cyberfilo/igcse-revision-toolkit)
+*Self-hosted IGCSE revision dashboard · MIT*
+<br>`Python` `stdlib HTTP` `vanilla JS`
+<br>→ [README →](https://github.com/Cyberfilo/igcse-revision-toolkit#readme)
+
+</td>
 </tr>
 </table>
 
-<br>
+Full list on the [repositories tab](https://github.com/Cyberfilo?tab=repositories).
 
 ---
 
-## Other Work & Experiments
+### Contributing to
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **PromptPort** | Universal interface to access and switch between AI models in one workflow | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
-| **Local AI Proxy** | Standardizes requests to AI services — input normalization, endpoint abstraction, output reshaping | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
-| **Trading Signal Bot** | Monitors markets and generates structured trade signals with confirmation logic | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white) |
-| **[PowairX Website](https://github.com/Cyberfilo/powairx-website)** | Professional team site for F1 in Schools with sponsor visibility | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **gRPC-Web Decoder** | Turns opaque serialized API responses into readable structured data via protobuf | ![JavaScript](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **CFD Case Generator** | Ready-to-run OpenFOAM simulation files for reproducible CFD testing | ![OpenFOAM](https://img.shields.io/badge/-OpenFOAM-1E8BC3?style=flat-square&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| **[Swift App Experiments](https://github.com/Cyberfilo/app-classificazione-4)** | iOS prototypes — ML image classification, native utilities, AI-powered apps | ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white) ![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white) |
-| **STL Repair Workflow** | Geometry-repair pipeline for simulation-ready or print-ready meshes | ![Rhino3D](https://img.shields.io/badge/-Rhino_3D-801010?style=flat-square&logoColor=white) |
-| **3D Print Optimizer** | Slicer-estimated vs. real weight comparison with infill tuning | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Claude Code Skills** | Custom agentic skills — session tracking, note formatting, task orchestration | ![Claude](https://img.shields.io/badge/-Claude_Code-191919?style=flat-square&logoColor=white) |
+I file real upstream PRs when I hit real issues — not "fix typo" cosmetic work. Filtered list: [`is:pr author:Cyberfilo`](https://github.com/search?q=author%3ACyberfilo+is%3Apr&type=pullrequests).
 
-<br>
+<table>
+<tr>
+<td align="center" width="20%"><a href="https://github.com/BerriAI/litellm"><b>LiteLLM</b></a><br><sub>LLM gateway · Python</sub></td>
+<td align="center" width="20%"><a href="https://github.com/jsvine/pdfplumber"><b>pdfplumber</b></a><br><sub>PDF text extraction · Python</sub></td>
+<td align="center" width="20%"><a href="https://github.com/MusicKit/apple-music-web-components"><b>apple-music-web-components</b></a><br><sub>Apple's MusicKit JS · TypeScript</sub></td>
+<td align="center" width="20%"><a href="https://github.com/maxweiss/mcp-apple-music"><b>mcp-apple-music</b></a><br><sub>MCP server · Python</sub></td>
+<td align="center" width="20%"><a href="https://github.com/PlayCover/PlayCover"><b>PlayCover</b></a><br><sub>iOS-on-macOS · Swift</sub></td>
+</tr>
+</table>
 
 ---
 
-## What I'm Working On
+### Stack
 
-| | Area | Details |
-|---|------|---------|
-| 🧠 | **AI Orchestration** | Multi-model routing, agentic workflows, [MCP tools](https://github.com/Cyberfilo/musicmind-mcp) |
-| 📱 | **iOS Development** | Native Swift apps with AI integration |
-| 📈 | **Sniper V3** | Backtesting pipeline & ML ensemble optimization |
-| 🏎️ | **[PowairX](https://github.com/Cyberfilo/powairx-website)** | Full-car CFD mesh refinement in OpenFOAM |
-
-<br>
+`Python` `TypeScript` `Swift` ·
+`FastAPI` `Flask` `React` `SwiftUI` ·
+`Postgres` `SQLAlchemy` `DuckDB` ·
+`Docker` `Railway` `Modal` `GitHub Actions` ·
+`PyTorch` `MLX` `CLAP` `MERT` `Essentia` ·
+`Claude API` `OpenAI` `MCP` ·
+`MetaTrader 5 (via Wine)` `Telegram` `Apple MusicKit` `Spotify`
 
 ---
 
-<div align="center">
+### How I work
 
-### Let's Connect
+I plan in `.planning/` files, commit per-edit, ship to `staging` before `main`, and encode lessons into version-controlled rules documents. I use Claude Code daily but built my own harness around it (custom hooks, statusline, session-orientation, per-project memory) so it stays an execution partner instead of a drift source. **I verify rather than trust** — runtime logs, `psql`, `git status` — before believing anyone's narration, mine or an AI's.
 
-*Open to collaborating on AI systems, software development, iOS apps, or anything that ships fast and breaks conventions.*
+---
 
-<br>
+<p align="center">
+  <a href="https://github.com/Cyberfilo">
+    <img height="155" src="https://github-readme-stats.vercel.app/api?username=Cyberfilo&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&hide=issues&rank_icon=github">
+  </a>
+  <a href="https://github.com/Cyberfilo">
+    <img height="155" src="https://github-readme-streak-stats.herokuapp.com?user=Cyberfilo&hide_border=true&background=00000000">
+  </a>
+</p>
 
-[![Email](https://img.shields.io/badge/filippo@menghi.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:filippo@menghi.dev)
-&nbsp;
-[![menghi.dev](https://img.shields.io/badge/menghi.dev-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF)](https://menghi.dev)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filippo-menghi-5386603ba)
+<p align="center">
+  <a href="https://github.com/Cyberfilo">
+    <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberfilo&layout=compact&theme=transparent&hide_border=true&langs_count=8&exclude_repo=Tornelli,Tornelli-ATM,Tornelli-ATM-2,TornellATM,app-classificazione-3,app-classificazione-4,app-classificazione-12,app-classificazione-completa,repo5,repo6,repo7,appml,mlapp,ml_classification">
+  </a>
+</p>
 
-<br><br>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=80&section=footer" width="100%"/>
+<p align="center">
+  <a href="mailto:filippo@menghi.dev">filippo@menghi.dev</a> &nbsp;·&nbsp;
+  <a href="https://github.com/Cyberfilo">@Cyberfilo</a> &nbsp;·&nbsp;
+  <a href="https://huggingface.co/Cyberfilo">HuggingFace</a> &nbsp;·&nbsp;
+  <a href="https://menghi.dev">menghi.dev</a>
+</p>
 
-</div>
+<p align="center"><sub>If you're a maintainer interested in a PR I filed, or you're hiring for a technical stage — get in touch.</sub></p>

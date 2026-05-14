@@ -155,17 +155,15 @@ I plan in `.planning/` files, commit per-edit, ship to `staging` before `main`, 
 
 <p align="center">
   <a href="https://github.com/Cyberfilo">
-    <img height="155" src="https://github-readme-stats.vercel.app/api?username=Cyberfilo&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&hide=issues&rank_icon=github">
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=Cyberfilo&hide_border=true&background=00000000&stroke=3B82F6&ring=3B82F6&fire=EC4899&currStreakLabel=3B82F6&sideLabels=A8A8A8&dates=A8A8A8&sideNums=FFFFFF&currStreakNum=FFFFFF&excludeDaysLabel=A8A8A8">
   </a>
-  <a href="https://github.com/Cyberfilo">
-    <img height="155" src="https://github-readme-streak-stats.herokuapp.com?user=Cyberfilo&hide_border=true&background=00000000">
+  <a href="https://github.com/Cyberfilo?tab=repositories">
+    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cyberfilo&theme=transparent">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Cyberfilo">
-    <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberfilo&layout=compact&theme=transparent&hide_border=true&langs_count=8&exclude_repo=Tornelli,Tornelli-ATM,Tornelli-ATM-2,TornellATM,app-classificazione-3,app-classificazione-4,app-classificazione-12,app-classificazione-completa,repo5,repo6,repo7,appml,mlapp,ml_classification">
-  </a>
+  <img alt="Cyberfilo activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Cyberfilo&bg_color=00000000&color=3B82F6&line=3B82F6&point=EC4899&area=true&hide_border=true&theme=minimal&days=120">
 </p>
 
 ---
